@@ -194,15 +194,15 @@ LLM을 사용하기에 질문과 답변의 갯수를 세는 것은 너무 단순
 
 "미션을 진행하며 느낀 감정을 담은 노래 제작"을 선택했습니다.
 
-### **선택 이유**
+### ⚡️ 선택 이유
 
 평소에 노래 듣는 것을 좋아해 저의 취미와 관련 있는 이 퀘스트를 선택하였습니다.
 
-### 미션 확장
+### ⚡️ 미션 확장
 
 현재 퀘스트에서는 Suno AI를 사용하라고 했는데 찾아보니 비슷하게 노래 만들어주는 AI가 많아 다른 AI를 사용해서도 노래를 만들어서 비교해보면 좋을 것 같습니다.
 
-### 결과
+### ⚡️ 결과
 
 https://suno.com/s/O9I1B9Ogpuy10fzj
 
@@ -210,19 +210,53 @@ https://suno.com/s/O9I1B9Ogpuy10fzj
 
 ## 미션 수행: J028
 
+### ⚡️ 내가 맡은 릴레이 프로젝트 주제
+
+AI 노래 만들기. 미션을 진행하며 막혀서 힘들다거나 혹은 수월하게 진행돼서 신난다면, 그 감정들을 노래로 만들어보자. ai를 통해 제작한 노래를 들으며 감정을 리프레쉬 할 수 있다.
+
+### ⚡️ 선택 이유
+
+AI로 곡을 만들어보는 작업은 해본 적이 없어서 해보면 흥미로울 것 같았다🎧!
+
+### ⚡️ 신경쓴 점
+
+그날 미션으로 공부한 내용이 노래에 녹아들게끔 가사를 신경 썼습니다ㅎㅎ!! AI로 노래를 처음 만들어보는 거라 가사와 노래 비트가 어떻게 매치될지 궁금했는데 그 부분을 호기심을 가지고 수행했던 것 같습니다.
+
+### ⚡️ 수행 과정
+
+![img1](https://postfiles.pstatic.net/MjAyNTA3MjVfOTEg/MDAxNzUzNDE3NDA1MzQ3.dx5RLTjuzetGdHc3y9-iyV3hhlTSmkgO34qE9AEjWjIg.1ZZaZxjFIjjsOCtK35CtFawuhVQMK4TNx2L7matkRV8g.PNG/image.png?type=w966)
+![img2](https://postfiles.pstatic.net/MjAyNTA3MjVfMTYg/MDAxNzUzNDE3Mzc0Mzgx.-vzjENzOQQU3YVHI4RV1V-bThShwnLQ-HBQuJZfCBLQg.5IlU0mKBOZNXGcZ1S9bJPO-TspZ9UJow3n6vSYrx8QQg.PNG/image.png?type=w966)
+
+### ⚡️ 슬랙에 공유한 것과 반응
+
+![img3](https://postfiles.pstatic.net/MjAyNTA3MjVfMjE4/MDAxNzUzNDE3NTM3OTEy.rCDmzJnvyxwPUTCSzooei9tqPcHcwWfcXbmCRhR2voAg.ezLeZ-Fi5NUh9YHCTQmHUn1Fps_Ub9ICHOQ4_sSvKG0g.PNG/image.png?type=w966)
+![img4](https://postfiles.pstatic.net/MjAyNTA3MjVfMTM1/MDAxNzUzNDE3NjAyMjI5.exde-1FDONbc9T3S0UdegrR1ylGZZiVEvR0A6CfzgtAg.CKv3FrDWganGisrds6SXi_8pKY5UltIDLCApSgG6noMg.PNG/image.png?type=w966)
+![img5](https://postfiles.pstatic.net/MjAyNTA3MjVfOTIg/MDAxNzUzNDE3NjIwMzM1.lwYdEgXIIhPi1AAbUqTvHFBvRv5AifuMCD76MKuD2Dog.ezGFHP41vd9Q1gaHBp1JCrwWyw-63vv_tPXAHBSenOEg.PNG/image.png?type=w966)
+
+### ⚡️ 결과
+
+- My Root Symphony: https://ai-music-generator.ai/ko/song/e11dbe20-6fbf-497c-bbad-94241ef14944
+- Pure Function, Pure Love: https://ai-music-generator.ai/ko/song/a18e6ec6-3faa-4598-b339-530ac98afaff
+
+### ⚡️ 후기 및 아이디어
+
+내 기대보다 AI가 노래를 정말 잘 만들어줬다. 초반에 생성할 때 원하는 스타일과 가사를 적을 수 있는데 upbeat, hiphop, kpop을 주로 적었던 것 같다. AI가 만들어주고, 무료로 크레딧을 받은 거라 30초 내외의 노래를 뽑아줄 줄 알고 처음에는 짧은 가사를 넣었다. 그랬더니 3분 넘는 노래를 들고 오는 것이 아닌가. 하하. 그래서 30초는 휘몰아치듯이 랩을 하고 나머지는 신나는 비트곡을 들었던 것 같다. 도입부부터 귀를 강타하는 사운드에 "와 이거 진짜 잘 만들어주잖아. 기대 이상이다! 진짜 사람이 노래를 부른 것 같아." 라는 생각을 했다 ㅋㅋ 슬랙에 공유를 했더니 공감해주신 분들도 계셨다. 특히 제이님도 감탄하고 가셨다. 이번 릴레이 프로젝트 기회가 아니었으면 AI가 노래도 이렇게 잘 뽑아주는지 몰랐을 것 같다. 뭔가 상업용이 아니라도 이걸 응용할 방안을 생각해보면 좋을 것 같다. 가사로 개념 요점 정리를 넣어서 신나게 노래로 들으면서 공부한다던가ㅎㅎ🤣
+
+---
+
 ## 미션 수행: J187
 
 "미션을 진행하며 느낀 감정을 담은 노래 제작"을 선택했습니다.
 
-### **선택 이유**
+### ⚡️ 선택 이유
 
 LLM을 이용하거나 AI를 활용한 이미지 생성은 경험해 봤는데 AI를 활용하여 음악을 만드는 건 아직 해보지 않아 재미있는 퀘스트라고 생각하여 선택하였습니다. 어떠한 퀄리티의 음악이 생성될지 궁금합니다.
 
-### 미션 확장
+### ⚡️ 미션 확장
 
 느낀 감정을 담은 노래가 아닌 다른 형식으로 나타내 재미있을거라고 생각됩니다.
 
-### 결과
+### ⚡️ 결과
 
 https://suno.com/s/GWELBRke5nGp0JAv
 
@@ -230,11 +264,11 @@ https://suno.com/s/GWELBRke5nGp0JAv
 
 "미션을 진행하며 느낀 감정을 담은 노래 제작"을 선택했습니다.
 
-### **선택 이유**
+### ⚡️ 선택 이유
 
 AI를 통해 미션을 수행하면서 느낀 감정들을 창의적으로 표현하고, 서로 공감하며 즐길 수 있는 노래를 만들어보고 싶어 선택하였습니다.
 
-### 수행 계획
+### ⚡️ 수행 계획
 
 - 수행한 미션의 학습 목표, 배웠던 점들에 대한 키워드와 느낀점을 가지고 AI를 사용하여 가사 작성하기
 - Suno AI를 통해 노래 생성
@@ -242,6 +276,6 @@ AI를 통해 미션을 수행하면서 느낀 감정들을 창의적으로 표�
   - 노래 스타일 선정
 - 노래 공유
 
-### 결과
+### ⚡️ 결과
 
 - [Pure Function Flow](https://suno.com/song/dad93999-1346-4a24-ae0d-74c3c9239506?sh=xf4YGn6wtRNZ2Ldn)
