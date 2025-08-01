@@ -176,6 +176,7 @@
     - 매일 저녁을 뭘먹을지 고민해서 AI는 어떤걸 추천하는지 궁금해서 선택했습니다.
     - 혼자 먹을 때와 가족과 함께 먹을 때 어떤 차이가 있을지도 알고 싶어서 선택하게 되었습니다.
 - 수행 결과:
-    <img width="1985" height="1005" alt="image" src="https://github.com/user-attachments/assets/aa6fbaac-ac08-4bcc-9657-c303475a39c7" />
+    <img width="1867" height="981" alt="image" src="https://github.com/user-attachments/assets/bc2a5ea6-0d72-4e90-9f5c-c87360d0e468" />
+
 - 느낀점:
     - 기분과 누구와 먹을지 등 자세한 내용을 추가해서 추천해달라고 했는데 적절하게 나누어서 추천해줘서 좋았습니다.
